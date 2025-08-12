@@ -1,0 +1,103 @@
+{
+  "capture_timestamp": "20250812_124933", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/request_001.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/response_001.txt", 
+      "timestamp": 1754962376703
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/request_002.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/response_002.txt", 
+      "timestamp": 1754962376770
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/request_003.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/response_003.txt", 
+      "timestamp": 1754962378579
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/request_004.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/response_004.txt", 
+      "timestamp": 1754962453887
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/request_005.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/response_005.txt", 
+      "timestamp": 1754962453950
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/request_006.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/response_006.txt", 
+      "timestamp": 1754962454604
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/request_007.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/response_007.txt", 
+      "timestamp": 1754962454674
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/request_008.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/response_008.txt", 
+      "timestamp": 1754962456503
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/request_009.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/response_009.txt", 
+      "timestamp": 1754962521157
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/request_010.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/response_010.txt", 
+      "timestamp": 1754964993064
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/request_011.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/response_011.txt", 
+      "timestamp": 1754965010715
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/request_012.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_124933/response_012.txt", 
+      "timestamp": 1754965020607
+    }
+  ], 
+  "host": "px.ads.linkedin.com", 
+  "total_requests": 12
+}
