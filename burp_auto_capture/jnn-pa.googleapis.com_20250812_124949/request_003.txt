@@ -1,0 +1,18 @@
+POST /$rpc/google.internal.waa.v1.Waa/GenerateIT HTTP/2
+Host: jnn-pa.googleapis.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.youtube.com/
+X-Goog-Api-Key: AIzaSyDyT5W0Jh49F30Pqqtyfdf7pDLFKLJoAnw
+Content-Type: application/json+protobuf
+X-User-Agent: grpc-web-javascript/0.1
+Content-Length: 839
+Origin: https://www.youtube.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+
+["HVXUKVy98PAjvWs7DkU0","$N6g5qPBRAAbyvIAh0rzecYPUJzKLdIWnADQBEArZ1Nuwy18jg9puJXxbIz0V3KlJG9lBYQAuquPy0YcGL4vfZtOw0lHlpaQ7fAd15e7hngAAAB7OAAAAAvQBB-IAE8XRq5hVvwzdQ8MVVtdZTtkiOOCWAKWoOgVUBn-VzaZksOXubAUpfgR-wWjSgZguoOGulby_rIL6x30RJoEOteaF5rXizCLFzpDyT1lUfxjmRZvy990-Xq2DfJfXRWsVLN5LCIJKKzH6739WDppBtd7UdUVYMFc8nVLZ9rKTIn7hrm7YawVCbLQZK3WEl9prlm42uJQHCoFjNZjFRpaeQthFXmOGxqrBvZFlnC5ROjUAi9bI9_xPzAbAM2IFAURJBmhhFrGW-q1V4LVOc-ISgBjdU99soYqKsQYSbNNYvM0wHZH7pL0mQVGUEzXR9uqrKKWAFUSkbSMNyyDqWHVaqO96X3vHw3WkfeMRJOSbtqznopu8HgmVgQWRmdASYyFS1WD4b77pKaLXdXlffGojIerMxxEkpjlNuKeosfrOVfpDjhEHKvYVs738qoIwrDQ6nntADPUVc1TNv8kWxVDtqa2ee6LqmQ5yQdIZjL7v4alWajOoDcj5Fk_GiatMV3MULXKZkBp0Lv27ODUat4a0Hi7WTpADYEV8ayGFdh1Z5rim082FJoulPlCToB1ddkGQ_TTdTtHujpTqNlC_8SA7sI1lS789g6CRpuvx2y6hjLyg8uZsCS3eApKKxc5_DKjOgNbZzrzkY3Bzai-8KnTGGByYjNbbDrgJw7J9gCxeBzbPXyQ"]
