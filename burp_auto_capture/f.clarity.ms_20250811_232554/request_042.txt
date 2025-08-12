@@ -1,0 +1,18 @@
+POST /collect HTTP/1.1
+Host: f.clarity.ms
+Cookie: MUID=08E9BC3E447E66CB00ADAA7845346719
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://app.sejaefi.com.br/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 781
+Origin: https://app.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+Connection: close
+
+{"e":["0.8.23",7,16796,19325,"g0r6pkqi91","103nrd5","a1zxu1",1,0,0,0,"https://app.sejaefi.com.br/home"],"a":[[29235,12,242,892,804],[29251,12,242,778,843],[29267,12,350,700,859],[29283,12,913,658,866],[29299,12,913,642,869],[29313,12,913,638,871],[29345,12,913,638,872],[29360,12,913,637,872],[29376,12,913,636,873],[29408,12,912,636,874],[29423,12,912,636,875],[29439,12,912,636,876],[29455,12,912,637,876],[29469,12,912,641,880],[29485,12,912,651,889],[29502,12,924,660,900],[29517,12,924,664,906],[29533,12,924,664,912],[29549,12,924,664,917],[29563,12,929,660,924],[29579,12,929,654,934],[29610,12,929,646,946],[30329,12,934,552,919],[16796,4,1,1077,3687,1094,954,470,0,0,0,9872,5949,null,null,null,null,null,null,null,null,null,null,null,null,null],[36121,0,2,174,4,5,25,25]]}
