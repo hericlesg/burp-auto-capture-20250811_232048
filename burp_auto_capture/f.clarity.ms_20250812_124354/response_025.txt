@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 12 Aug 2025 02:16:32 GMT
+Content-Type: text/plain; charset=utf-8
+Connection: close
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://login.sejaefi.com.br
+Vary: Origin
+Request-Context: appId=cid-v1:3d284f99-f285-495c-ac33-dedd7ecf1ac8
+Content-Length: 13
+
+EXTRACT 11 {}
