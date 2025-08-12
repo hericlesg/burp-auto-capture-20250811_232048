@@ -1,0 +1,17 @@
+POST /2/httpapi HTTP/2
+Host: api2.amplitude.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://app.sejaefi.com.br/
+Content-Type: application/json
+Content-Length: 1210
+Origin: https://app.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+{"api_key":"154ad5ccf8a82732a59152a92644de7","events":[{"device_id":"8b8389b3-fd39-4592-9611-cb893a8ca00f","session_id":1754962280677,"time":1754962568703,"platform":"Web","language":"pt-BR","ip":"$remote","insert_id":"fe4bfead-c83e-4d05-ae37-cdc09a0f5b86","event_type":"clicou avancar apos preencher chave / pix via chave","event_properties":{"environment":"production","account_modality":"corporation","role":"admin","tipo_chave":"cpf","colou_chave":true},"event_id":56,"library":"amplitude-ts/2.8.1","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0"},{"device_id":"8b8389b3-fd39-4592-9611-cb893a8ca00f","session_id":1754962280677,"time":1754962568705,"platform":"Web","language":"pt-BR","ip":"$remote","insert_id":"a27f491a-7ffa-4ea3-82f3-f5f254de6574","event_type":"Selecionou documento / Pix via chave","event_properties":{"environment":"production","account_modality":"corporation","role":"admin"},"event_id":57,"library":"amplitude-ts/2.8.1","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0"}],"options":{},"client_upload_time":"2025-08-12T01:36:09.712Z","request_metadata":{"sdk":{"metrics":{"histogram":{}}}}}
