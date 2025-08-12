@@ -1,0 +1,16 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=UTF-8
+Vary: Origin
+Vary: X-Origin
+Vary: Referer
+Date: Tue, 12 Aug 2025 14:20:11 GMT
+Server: scaffolding on HTTPServer2
+Content-Length: 28
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{
+  "responseContext": {}
+}
