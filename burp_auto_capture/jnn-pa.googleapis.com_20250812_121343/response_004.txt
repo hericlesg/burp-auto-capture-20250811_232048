@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Content-Type: application/json+protobuf; charset=UTF-8
+Vary: Origin
+Vary: X-Origin
+Vary: Referer
+Date: Tue, 12 Aug 2025 02:17:11 GMT
+Server: ESF
+Content-Length: 94
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: https://www.youtube.com
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: vary,vary,vary,content-encoding,date,server,content-length
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+["hqpLRepCSBe4K80WCqMeDxMyEBj7Q/1K+aG00e0ueI9+BjzenvhG+SeBCdyO1tuNgJO7eauVLQbNr41S",43200,100]
