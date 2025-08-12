@@ -1,0 +1,16 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Content-Length: 337
+Date: Tue, 12 Aug 2025 02:15:38 GMT
+Cache-Control: public, max-age=60, s-maxage=60, stale-if-error=86400, stale-while-revalidate=600
+X-Cache: Hit from cloudfront
+Via: 1.1 7abd46c9f3bfc4bb55e5d472c5abe88e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU3-P9
+X-Amz-Cf-Id: tXWaMX2yp8ivvFauPk15jxQz3nLYJtb3HWYjZCaAjQq13cpD1ACEcA==
+Age: 80
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://app.sejaefi.com.br
+Vary: Origin
+Access-Control-Expose-Headers: X-Cache,Age
+
+{"configs":{"sessionReplay":{"sr_ios_sampling_config":{"capture_enabled":false,"disabled_reason":"OUT_OF_QUOTA","sample_rate":1.0},"sr_android_sampling_config":{"capture_enabled":false,"disabled_reason":"OUT_OF_QUOTA","sample_rate":1.0},"sr_sampling_config":{"capture_enabled":false,"disabled_reason":"OUT_OF_QUOTA","sample_rate":1.0}}}}
