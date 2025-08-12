@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to=coop_reporting
+Report-To: {"group":"clearcut-frontend-http-prod-hiqos","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/httpsserver2/clearcut-frontend-http-prod-hiqos"}]}
+Content-Security-Policy-Report-Only: script-src 'none';form-action 'none';frame-src 'none'; report-uri https://csp.withgoogle.com/csp/httpsserver2/clearcut-frontend-http-prod-hiqos
+Access-Control-Allow-Origin: https://www.youtube.com
+Cross-Origin-Resource-Policy: cross-origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: X-Playlog-Web
+Content-Type: text/plain; charset=UTF-8
+Date: Tue, 12 Aug 2025 02:17:08 GMT
+Server: Playlog
+Content-Length: 131
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+["-1",null,[[["ANDROID_BACKUP",0],["BATTERY_STATS",0],["SMART_SETUP",0],["TRON",0]],-3334737594024971225],[],{"175237375":[10000]}]
