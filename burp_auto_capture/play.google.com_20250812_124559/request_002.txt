@@ -1,0 +1,18 @@
+POST /log?hasfast=true&authuser=0&format=json HTTP/2
+Host: play.google.com
+Cookie: NID=525=MfWXRjCRwri6Tq9UXxZGMlouitdX-cMm29hZb1pCQde7KGIcnuzG7Nd9dinnQyXt1-G4vWM5LXgDXDSX2fvK-mE9jz_NWYAZaFk6VcgI1FUCfhTMa4oIayj7-etfjKf76k5-EpB7w3oF7KdzCzcj3qqOWUSLrRGHfwCvFHGeydvkMGIxX9moxhhwYZpgSCNiIA; NID=525=ht8WeKC2qpVfZst7k2uAIAIuVk_Uq676xorZjuXPdSY6oWgtUMOMubWWlsdfeA0C2V8KUr13rT14LsUvGbRuLmlSNqWH8SfRa7-7TR-ior_vK4jGI-8yRgQ1cl6sSe0Q_thOH29qWwHfWQ3sCgHX-XSCxmSu2kwdFS3hNcycXbZgArX_QuTZzkRPnngcOvbCsGA_DFA6VnuIG-C1Fz0UoUKvGLAKRMRgUbqW0xBO4hSY0z3cULCi-8IjFa_NynQ; GCL_AW_P=GCL.1754962216.EAIaIQobChMI9pWz1o-EjwMVSkZIAB31BB-QEAAYASAAEgJbi_D_BwE
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.youtube.com/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 405
+Origin: https://www.youtube.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+[[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,"pt",null,"50",null,null,[3,0]]],1828,[["1754965028575",null,null,null,null,null,null,"[[[\"/client_streamz/bg/ec\",null,[\"en\",\"mk\"],[[[[\"t\"],[\"aGIf\"]],[1]]]],[\"/client_streamz/bg/el\",null,[\"en\",\"mk\"],[[[[\"t\"],[\"aGIf\"]],[null,43]]]]]]",null,null,null,null,null,null,10800,null,null,null,null,null,1]],"1754965028575"]
