@@ -1,0 +1,18 @@
+POST /collect HTTP/1.1
+Host: f.clarity.ms
+Cookie: MUID=08E9BC3E447E66CB00ADAA7845346719
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://login.sejaefi.com.br/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 1011
+Origin: https://login.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+Connection: close
+
+{"e":["0.8.23",2,114,9024,"g0r6pkqi91","103nrd5","1lr7lea",1,0,0,0,"https://login.sejaefi.com.br/oauth/authorize?redirect_to=https://app.sejaefi.com.br/"],"a":[[7604,12,115,218,512],[7618,12,115,218,503],[7635,12,88,218,482],[7651,12,114,216,463],[7666,12,57,214,438],[7682,12,57,213,419],[7697,12,57,213,398],[7713,12,112,213,380],[7728,12,112,212,363],[7744,12,112,212,353],[7759,12,111,211,343],[7791,12,111,210,337],[7807,12,111,209,333],[7885,12,111,209,332],[7901,12,111,209,331],[7916,12,57,209,329],[7932,12,57,207,323],[7947,12,57,205,315],[7978,12,110,202,305],[7994,12,110,199,298],[8010,12,110,196,292],[8026,12,110,193,287],[8041,12,110,191,282],[8057,12,110,191,280],[8072,12,110,190,279],[8103,13,110,190,279],[8212,14,110,190,279],[8212,9,110,190,279,9331,11188,0,0,0,null,null,"8kiq0uyyd.8kiq0uyyd",1,0],[8898,38,110,2],[114,4,1,1094,954,1094,954,0,0,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null],[9138,1,4,["px.ads.linkedin.com"]],[9138,0,2,5503,4,11,10,24,25,33]]}
