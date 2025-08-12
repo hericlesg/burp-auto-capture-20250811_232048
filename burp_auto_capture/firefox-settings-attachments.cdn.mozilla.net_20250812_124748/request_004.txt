@@ -1,0 +1,8 @@
+GET /security-state-staging/intermediates/4b4a9b9b-232f-44ae-8416-4594a76e1691.pem HTTP/2
+Host: firefox-settings-attachments.cdn.mozilla.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Te: trailers
+
