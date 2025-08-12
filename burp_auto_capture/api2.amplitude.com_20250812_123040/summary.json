@@ -1,0 +1,55 @@
+{
+  "capture_timestamp": "20250812_123040", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/api2.amplitude.com_20250812_123040/request_001.txt", 
+      "url": "https://api2.amplitude.com:443/2/httpapi", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/api2.amplitude.com_20250812_123040/response_001.txt", 
+      "timestamp": 1754962377689
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/api2.amplitude.com_20250812_123040/request_002.txt", 
+      "url": "https://api2.amplitude.com:443/2/httpapi", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/api2.amplitude.com_20250812_123040/response_002.txt", 
+      "timestamp": 1754962395594
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/api2.amplitude.com_20250812_123040/request_003.txt", 
+      "url": "https://api2.amplitude.com:443/2/httpapi", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/api2.amplitude.com_20250812_123040/response_003.txt", 
+      "timestamp": 1754962454880
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/api2.amplitude.com_20250812_123040/request_004.txt", 
+      "url": "https://api2.amplitude.com:443/2/httpapi", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/api2.amplitude.com_20250812_123040/response_004.txt", 
+      "timestamp": 1754962489940
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/api2.amplitude.com_20250812_123040/request_005.txt", 
+      "url": "https://api2.amplitude.com:443/2/httpapi", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/api2.amplitude.com_20250812_123040/response_005.txt", 
+      "timestamp": 1754962570427
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/api2.amplitude.com_20250812_123040/request_006.txt", 
+      "url": "https://api2.amplitude.com:443/2/httpapi", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/api2.amplitude.com_20250812_123040/response_006.txt", 
+      "timestamp": 1754965041631
+    }
+  ], 
+  "host": "api2.amplitude.com", 
+  "total_requests": 6
+}
