@@ -1,0 +1,199 @@
+{
+  "capture_timestamp": "20250812_105243", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_001.txt", 
+      "url": "https://www.youtube.com:443/embed/uOo2js32ySc?rel=0", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_001.txt", 
+      "timestamp": 1754965025723
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_002.txt", 
+      "url": "https://www.youtube.com:443/embed/vC0RGdYaN00?rel=0", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_002.txt", 
+      "timestamp": 1754965025769
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_003.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_003.txt", 
+      "timestamp": 1754965028660
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_004.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_004.txt", 
+      "timestamp": 1754965028665
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_005.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_005.txt", 
+      "timestamp": 1754965030588
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_006.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_006.txt", 
+      "timestamp": 1754965031332
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_007.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_007.txt", 
+      "timestamp": 1754965044935
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_008.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_008.txt", 
+      "timestamp": 1754965044937
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_009.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_009.txt", 
+      "timestamp": 1754965283763
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_010.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_010.txt", 
+      "timestamp": 1754965283767
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_011.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_011.txt", 
+      "timestamp": 1754965376158
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_012.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_012.txt", 
+      "timestamp": 1754965376159
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_013.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_013.txt", 
+      "timestamp": 1754965968730
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_014.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_014.txt", 
+      "timestamp": 1754965968730
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_015.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_015.txt", 
+      "timestamp": 1754966869722
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_016.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 16, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_016.txt", 
+      "timestamp": 1754966869723
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_017.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 17, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_017.txt", 
+      "timestamp": 1755003024584
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_018.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 18, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_018.txt", 
+      "timestamp": 1755003024589
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_019.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 19, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_019.txt", 
+      "timestamp": 1755003925104
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_020.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 20, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_020.txt", 
+      "timestamp": 1755003925109
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_021.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 21, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_021.txt", 
+      "timestamp": 1755004825532
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_022.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 22, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_022.txt", 
+      "timestamp": 1755004825537
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_023.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 23, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_023.txt", 
+      "timestamp": 1755005726465
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.youtube.com_20250812_105243/request_024.txt", 
+      "url": "https://www.youtube.com:443/youtubei/v1/log_event?alt=json", 
+      "sequence_number": 24, 
+      "response_file": "burp_auto_capture/www.youtube.com_20250812_105243/response_024.txt", 
+      "timestamp": 1755005726479
+    }
+  ], 
+  "host": "www.youtube.com", 
+  "total_requests": 24
+}
