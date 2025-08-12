@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250811_232647", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/merino.services.mozilla.com_20250811_232647/request_001.txt", 
+      "url": "https://merino.services.mozilla.com:443/api/v1/suggest?q=&providers=accuweather&request_type=weather&sid=8af7c291-5a0a-46ee-a0bd-9aee8efc9a16&seq=0", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/merino.services.mozilla.com_20250811_232647/response_001.txt", 
+      "timestamp": 1754965510604
+    }
+  ], 
+  "host": "merino.services.mozilla.com", 
+  "total_requests": 1
+}
