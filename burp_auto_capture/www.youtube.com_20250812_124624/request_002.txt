@@ -1,0 +1,15 @@
+GET /embed/vC0RGdYaN00?rel=0 HTTP/2
+Host: www.youtube.com
+Cookie: VISITOR_INFO1_LIVE=HNoPulR_NI0; VISITOR_PRIVACY_METADATA=CgJCUhIEGgAgaw%3D%3D; YSC=frQK9mm-0qs; __Secure-ROLLOUT_TOKEN=CJqj0vHF74HInwEQ1-WY-Y-EjwMY5ui68pWEjwM%3D
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://app.sejaefi.com.br/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
