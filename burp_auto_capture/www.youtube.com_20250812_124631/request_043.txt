@@ -1,0 +1,14 @@
+HEAD /generate_204 HTTP/1.1
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.youtube.com/embed/uOo2js32ySc?rel=0
+Connection: keep-alive
+Cookie: VISITOR_INFO1_LIVE=HNoPulR_NI0; VISITOR_PRIVACY_METADATA=CgJCUhIEGgAgaw%3D%3D; YSC=frQK9mm-0qs; __Secure-ROLLOUT_TOKEN=CJqj0vHF74HInwEQ1-WY-Y-EjwMY5ui68pWEjwM%3D
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=4
+
