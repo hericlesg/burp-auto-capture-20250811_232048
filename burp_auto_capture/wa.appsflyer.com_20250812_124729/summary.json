@@ -1,0 +1,39 @@
+{
+  "capture_timestamp": "20250812_124729", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/wa.appsflyer.com_20250812_124729/request_001.txt", 
+      "url": "https://wa.appsflyer.com:443/events?site-id=a9bc0432-1b11-407e-9115-57a31ea483fb", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/wa.appsflyer.com_20250812_124729/response_001.txt", 
+      "timestamp": 1754964991767
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/wa.appsflyer.com_20250812_124729/request_002.txt", 
+      "url": "https://wa.appsflyer.com:443/events?site-id=a9bc0432-1b11-407e-9115-57a31ea483fb", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/wa.appsflyer.com_20250812_124729/response_002.txt", 
+      "timestamp": 1754965019287
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/wa.appsflyer.com_20250812_124729/request_003.txt", 
+      "url": "https://wa.appsflyer.com:443/events?site-id=a9bc0432-1b11-407e-9115-57a31ea483fb", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/wa.appsflyer.com_20250812_124729/response_003.txt", 
+      "timestamp": 1754965021405
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/wa.appsflyer.com_20250812_124729/request_004.txt", 
+      "url": "https://wa.appsflyer.com:443/events?site-id=a9bc0432-1b11-407e-9115-57a31ea483fb", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/wa.appsflyer.com_20250812_124729/response_004.txt", 
+      "timestamp": 1754965025610
+    }
+  ], 
+  "host": "wa.appsflyer.com", 
+  "total_requests": 4
+}
