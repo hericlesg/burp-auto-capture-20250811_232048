@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Content-Length: 78
+Date: Tue, 12 Aug 2025 02:17:04 GMT
+Set-Cookie: af_id=e41397da-a8dc-48ce-8e05-094f38855219-p; Domain=appsflyer.com; Expires=Fri, 11 Sep 2026 02:17:04 GMT
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Access-Control-Allow-Origin: https://app.sejaefi.com.br
+X-Cache: Miss from cloudfront
+Via: 1.1 b586b909c6ee6f620a38f6e72ae31a74.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU3-P12
+X-Amz-Cf-Id: z5urPvOd6dyrR7OIe-NSQzimQfbdsRkYWWvTt8lotkZfw4_-YWP9kw==
+Strict-Transport-Security: max-age=31536000
+
+{"cookie":"e41397da-a8dc-48ce-8e05-094f38855219-p","domain":".sejaefi.com.br"}
