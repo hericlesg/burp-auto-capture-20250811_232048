@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250812_094256", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/safebrowsing.googleapis.com_20250812_094256/request_001.txt", 
+      "url": "https://safebrowsing.googleapis.com:443/v4/threatListUpdates:fetch?$ct=application/x-protobuf&key=AIzaSyC7jsptDS3am4tPx4r3nxis7IMjBc5Dovo&$httpMethod=POST&$req=ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAEaGwoNCAUQBhgBIgMwMDEwARDFwRwaAhgLVDpT4SICIAIoARonCAEQARobCg0IARAGGAEiAzAwMTABEIHpERoCGAvL50rkIgIgAigBGicIAxABGhsKDQgDEAYYASIDMDAxMAEQ6uARGgIYC5sjEpIiAiACKAEaJwgHEAEaGwoNCAcQBhgBIgMwMDEwARC6kRIaAhgL0fNjSSICIAIoARolCAkQARoZCg0ICRAGGAEiAzAwMTABECMaAhgLl55IyyICIAIoAQ==", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/safebrowsing.googleapis.com_20250812_094256/response_001.txt", 
+      "timestamp": 1754962420643
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/safebrowsing.googleapis.com_20250812_094256/request_002.txt", 
+      "url": "https://safebrowsing.googleapis.com:443/v4/threatListUpdates:fetch?$ct=application/x-protobuf&key=AIzaSyC7jsptDS3am4tPx4r3nxis7IMjBc5Dovo&$httpMethod=POST&$req=ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAEaGwoNCAUQBhgBIgMwMDEwARDOwRwaAhgLx3VG_yICIAIoARonCAEQARobCg0IARAGGAEiAzAwMTABEInpERoCGAvh7MS5IgIgAigBGicIAxABGhsKDQgDEAYYASIDMDAxMAEQ8uARGgIYC_eCqSIiAiACKAEaJwgHEAEaGwoNCAcQBhgBIgMwMDEwARDAkRIaAhgLllYcUyICIAIoARolCAkQARoZCg0ICRAGGAEiAzAwMTABECMaAhgLl55IyyICIAIoAQ==", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/safebrowsing.googleapis.com_20250812_094256/response_002.txt", 
+      "timestamp": 1754966031076
+    }
+  ], 
+  "host": "safebrowsing.googleapis.com", 
+  "total_requests": 2
+}
