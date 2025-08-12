@@ -1,0 +1,17 @@
+POST /2/httpapi HTTP/2
+Host: api2.amplitude.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://app.sejaefi.com.br/
+Content-Type: application/json
+Content-Length: 1352
+Origin: https://app.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+{"api_key":"154ad5ccf8a82732a59152a92644de7","events":[{"device_id":"8b8389b3-fd39-4592-9611-cb893a8ca00f","session_id":1754962280677,"time":1754962568706,"platform":"Web","language":"pt-BR","ip":"$remote","insert_id":"c095a23c-75e9-4139-93df-2470502731f9","event_type":"session_end","event_id":58,"library":"amplitude-ts/2.8.1","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0"},{"device_id":"8b8389b3-fd39-4592-9611-cb893a8ca00f","session_id":1754965036436,"time":1754965036436,"platform":"Web","language":"pt-BR","ip":"$remote","insert_id":"ca80a94e-b556-47a4-90a1-8f4d95265106","event_type":"session_start","event_id":59,"library":"amplitude-ts/2.8.1","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0","event_properties":{}},{"device_id":"8b8389b3-fd39-4592-9611-cb893a8ca00f","session_id":1754965036436,"time":1754965039782,"platform":"Web","language":"pt-BR","ip":"$remote","insert_id":"c8c643af-aa73-45d2-9082-116531336820","event_type":"$identify","user_properties":{"$set":{"pid":"101ce1dc7688f8d11e477602edcea17eb66dc304"}},"event_id":60,"library":"amplitude-ts/2.8.1","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0","event_properties":{}}],"options":{},"client_upload_time":"2025-08-12T02:17:20.795Z"}
