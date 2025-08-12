@@ -1,0 +1,39 @@
+{
+  "capture_timestamp": "20250812_095955", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_095955/request_001.txt", 
+      "url": "https://jnn-pa.googleapis.com:443/$rpc/google.internal.waa.v1.Waa/Create", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_095955/response_001.txt", 
+      "timestamp": 1754965028697
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_095955/request_002.txt", 
+      "url": "https://jnn-pa.googleapis.com:443/$rpc/google.internal.waa.v1.Waa/Create", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_095955/response_002.txt", 
+      "timestamp": 1754965028701
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_095955/request_003.txt", 
+      "url": "https://jnn-pa.googleapis.com:443/$rpc/google.internal.waa.v1.Waa/GenerateIT", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_095955/response_003.txt", 
+      "timestamp": 1754965031702
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_095955/request_004.txt", 
+      "url": "https://jnn-pa.googleapis.com:443/$rpc/google.internal.waa.v1.Waa/GenerateIT", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_095955/response_004.txt", 
+      "timestamp": 1754965031747
+    }
+  ], 
+  "host": "jnn-pa.googleapis.com", 
+  "total_requests": 4
+}
