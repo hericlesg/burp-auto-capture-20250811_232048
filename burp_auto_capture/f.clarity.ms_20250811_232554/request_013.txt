@@ -1,0 +1,18 @@
+POST /collect HTTP/1.1
+Host: f.clarity.ms
+Cookie: MUID=08E9BC3E447E66CB00ADAA7845346719
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://app.sejaefi.com.br/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 413
+Origin: https://app.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Cache-Control: no-cache
+Connection: close
+
+{"e":["0.8.23",5,6918,7371,"g0r6pkqi91","103nrd5","u3tafm",7,0,0,0,"https://app.sejaefi.com.br/pix/fazer-pix/chave"],"a":[[9619,12,648,933,203],[9635,12,648,915,212],[9650,12,648,907,216],[9666,12,648,906,216],[9713,12,648,911,214],[9729,12,648,918,213],[9744,12,648,933,210],[6918,4,1,1094,954,1094,954,0,0,1080,342,1728,29499,3385,1080,342,3385,600,681,1604,600,681,1713,942,446,3354],[14289,0,2,560,4,1,25,9]]}
