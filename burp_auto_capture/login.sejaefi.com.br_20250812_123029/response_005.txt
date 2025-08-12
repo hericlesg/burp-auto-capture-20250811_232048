@@ -1,0 +1,16 @@
+HTTP/2 302 Found
+Date: Tue, 12 Aug 2025 02:16:53 GMT
+Content-Type: text/html; charset=utf-8
+Location: https://app.sejaefi.com.br/bff/auth/login?authorization_code=b47b6d1f8e14bda3fff3fc841199261337915274&state=m5rawgvviz1odj9m65y29k&redirect_to=https://app.sejaefi.com.br/
+Cf-Ray: 96dc790eaf34ca7e-GIG
+Vary: Origin, Accept, Accept-Encoding
+X-Request-Id: 243715d7-e7df-4149-a0ac-26afd12151c6
+Set-Cookie: machine-login=b3d99f15-ed8b-4b8c-9435-1ec86ad0da40; Domain=.sejaefi.com.br; Path=/; Expires=Tue, 12 Aug 2025 02:36:50 GMT; HttpOnly; Secure
+Set-Cookie: _hlr=; Domain=.sejaefi.com.br; Path=/; Expires=Sun, 11 Aug 2030 03:00:00 GMT; Secure
+Cf-Cache-Status: DYNAMIC
+Server-Timing: cfCacheStatus;desc="DYNAMIC"
+Server-Timing: cfOrigin;dur=3211,cfEdge;dur=143
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+<p>Found. Redirecting to https://app.sejaefi.com.br/bff/auth/login?authorization_code=b47b6d1f8e14bda3fff3fc841199261337915274&amp;state=m5rawgvviz1odj9m65y29k&amp;redirect_to=https://app.sejaefi.com.br/</p>
