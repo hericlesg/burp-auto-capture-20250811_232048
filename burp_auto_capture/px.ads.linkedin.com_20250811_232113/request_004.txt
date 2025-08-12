@@ -1,0 +1,18 @@
+POST /wa/ HTTP/2
+Host: px.ads.linkedin.com
+Cookie: li_sugr=b405fbf7-1525-4ba8-8512-983a2defebcf; bcookie="v=2&0191b8b4-8e92-451e-8590-761e0b439756"; lidc="b=VGST04:s=V:r=V:a=V:p=V:g=3616:u=1:x=1:i=1754962218:t=1755048618:v=2:sig=AQHI2adyDCbuZeCx2DxqrFpK69xnaB3L"; UserMatchHistory=AQJj3Rm1QWNHKAAAAZib5k86ftouSSiws6X0edq2cja0cBb_6qA74U7MGm8BF-UYje4tBa1NK_4tAA; AnalyticsSyncHistory=AQJz11l8RbhGhwAAAZib5k865yznHBZbG8QF0SQhVR5aJXUyhb9jRqEdsqZTD7HoxLcePhLvGPe0nh_edXuNFw; __cf_bm=upFwZVCMq150unSlLCM1gx1fcMTKHQbt3Y44wgqSv2c-1754962219-1.0.1.1-Vv6I_n3_xwmZOfmE26dzIpEMi9zC2XE6OFp3nLfRuJGs3rUkYb_fKjMhjcj5zZx6XwvRweqLSLVoY0chYY0WhUZR_I203E2yf7_IgqYJYDQ
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: *
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Referer: https://app.sejaefi.com.br/
+Content-Length: 2670
+Origin: https://app.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+{"pids":[5044609],"scriptVersion":243,"time":1754962453085,"domain":"app.sejaefi.com.br","url":"https://app.sejaefi.com.br/pix/fazer-pix/chave","pageTitle":"EfÃ­","websiteSignalRequestId":"32dfdf90-02d1-0fd4-c100-c2d205a3af7e","isTranslated":false,"liFatId":"","liGiant":"","misc":{"psbState":-4},"isLinkedInApp":false,"hem":null,"signalType":"CLICK","href":"","domAttributes":{"elementSemanticType":null,"elementValue":null,"elementType":"button","tagName":"BUTTON","backgroundImageSrc":null,"imageSrc":null,"imageAlt":null,"innerText":"Voltar","elementTitle":null,"cursor":"pointer"},"innerElements":[{"elementSemanticType":"ICON","elementValue":null,"elementType":null,"tagName":"I","backgroundImageSrc":null,"imageSrc":null,"imageAlt":null,"innerText":"","elementTitle":null,"cursor":"pointer"}],"elementCrumbsTree":[{"tagName":"div","nthChild":1,"id":"app","attributes":{"data-v-app":""}},{"tagName":"div","nthChild":0,"id":"app","attributes":{"data-app":""}},{"tagName":"div","nthChild":0,"classes":["layout"],"attributes":{"data-v-965d6dbe":"","data-gtm-iscorporation":"true","data-gtm-modality":"corporation"}},{"tagName":"div","nthChild":1,"classes":["main-content"],"attributes":{"data-v-965d6dbe":""}},{"tagName":"div","nthChild":0,"classes":["container-ul","d-flex","py-4"],"attributes":{"data-v-965d6dbe":""}},{"tagName":"div","nthChild":1,"classes":["ms-7","w-100"],"attributes":{"data-v-965d6dbe":""}},{"tagName":"div","nthChild":0,"attributes":{"data-v-d6cfc80b":"","data-v-965d6dbe":""}},{"tagName":"div","nthChild":0,"attributes":{"data-v-d6cfc80b":""}},{"tagName":"div","nthChild":2,"classes":["gap-7","mt-5","the-content"],"attributes":{"data-v-d6cfc80b":""}},{"tagName":"section","nthChild":0,"classes":["position-relative","w-100"],"attributes":{"data-v-d6cfc80b":""}},{"tagName":"main","nthChild":1},{"tagName":"div","nthChild":0},{"tagName":"div","nthChild":0,"attributes":{"data-v-92326518":"","data-testid":"insert-key-step-container"}},{"tagName":"div","nthChild":0,"classes":["cd-steps-card","g-card","rounded-2","w-100"],"attributes":{"data-v-88c559e8":"","data-v-92326518":"","data-test-id":"GCard"}},{"tagName":"div","nthChild":2,"classes":["cd-steps-card-footer","g-card-footer","p-0"],"attributes":{"data-v-88c559e8":"","data-test-id":"GCardFooter"}},{"tagName":"div","nthChild":0,"classes":["border-overlay","border-top","d-flex"]},{"tagName":"button","nthChild":0,"classes":["align-items-center","bg-link-dark","btn-link-dark","d-flex","g-stepper-button","justify-content-center","px-3","rounded-bottom-start","rounded-bottom-start","stepper-text-dark","w-100","w-100"],"attributes":{"data-v-255a34ac":""}}],"isFilteredByClient":false}
