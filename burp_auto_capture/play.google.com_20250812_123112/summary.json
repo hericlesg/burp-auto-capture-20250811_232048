@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250812_123112", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/play.google.com_20250812_123112/request_001.txt", 
+      "url": "https://play.google.com:443/log?hasfast=true&authuser=0&format=json", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/play.google.com_20250812_123112/response_001.txt", 
+      "timestamp": 1754965028812
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/play.google.com_20250812_123112/request_002.txt", 
+      "url": "https://play.google.com:443/log?hasfast=true&authuser=0&format=json", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/play.google.com_20250812_123112/response_002.txt", 
+      "timestamp": 1754965028827
+    }
+  ], 
+  "host": "play.google.com", 
+  "total_requests": 2
+}
