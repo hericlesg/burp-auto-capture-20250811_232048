@@ -1,0 +1,39 @@
+{
+  "capture_timestamp": "20250812_124553", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sr-client-cfg.amplitude.com_20250812_124553/request_001.txt", 
+      "url": "https://sr-client-cfg.amplitude.com:443/config?api_key=154ad5ccf8a82732a59152a92644de7&config_keys=sessionReplay&session_id=1754962280677", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/sr-client-cfg.amplitude.com_20250812_124553/response_001.txt", 
+      "timestamp": 1754965019342
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sr-client-cfg.amplitude.com_20250812_124553/request_002.txt", 
+      "url": "https://sr-client-cfg.amplitude.com:443/config?api_key=154ad5ccf8a82732a59152a92644de7&config_keys=sessionReplay&session_id=1754962280677", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/sr-client-cfg.amplitude.com_20250812_124553/response_002.txt", 
+      "timestamp": 1754965021826
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sr-client-cfg.amplitude.com_20250812_124553/request_003.txt", 
+      "url": "https://sr-client-cfg.amplitude.com:443/config?api_key=154ad5ccf8a82732a59152a92644de7&config_keys=sessionReplay&session_id=1754962280677", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/sr-client-cfg.amplitude.com_20250812_124553/response_003.txt", 
+      "timestamp": 1754965022228
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sr-client-cfg.amplitude.com_20250812_124553/request_004.txt", 
+      "url": "https://sr-client-cfg.amplitude.com:443/config?api_key=154ad5ccf8a82732a59152a92644de7&config_keys=sessionReplay&session_id=1754965036436", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/sr-client-cfg.amplitude.com_20250812_124553/response_004.txt", 
+      "timestamp": 1754965036517
+    }
+  ], 
+  "host": "sr-client-cfg.amplitude.com", 
+  "total_requests": 4
+}
