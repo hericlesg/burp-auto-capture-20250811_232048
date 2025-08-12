@@ -1,0 +1,87 @@
+{
+  "capture_timestamp": "20250812_124941", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/request_001.txt", 
+      "url": "https://jnn-pa.googleapis.com:443/$rpc/google.internal.waa.v1.Waa/Create", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/response_001.txt", 
+      "timestamp": 1754965028697
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/request_002.txt", 
+      "url": "https://jnn-pa.googleapis.com:443/$rpc/google.internal.waa.v1.Waa/Create", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/response_002.txt", 
+      "timestamp": 1754965028701
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/request_003.txt", 
+      "url": "https://jnn-pa.googleapis.com:443/$rpc/google.internal.waa.v1.Waa/GenerateIT", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/response_003.txt", 
+      "timestamp": 1754965031702
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/request_004.txt", 
+      "url": "https://jnn-pa.googleapis.com:443/$rpc/google.internal.waa.v1.Waa/GenerateIT", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/response_004.txt", 
+      "timestamp": 1754965031747
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/request_005.txt", 
+      "url": "https://jnn-pa.googleapis.com:443/$rpc/google.internal.waa.v1.Waa/Create", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/response_005.txt", 
+      "timestamp": 1755008232658
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/request_006.txt", 
+      "url": "https://jnn-pa.googleapis.com:443/$rpc/google.internal.waa.v1.Waa/Create", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/response_006.txt", 
+      "timestamp": 1755008232658
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/request_007.txt", 
+      "url": "https://jnn-pa.googleapis.com:443/$rpc/google.internal.waa.v1.Waa/Create", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/response_007.txt", 
+      "timestamp": 1755008323230
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/request_008.txt", 
+      "url": "https://jnn-pa.googleapis.com:443/$rpc/google.internal.waa.v1.Waa/Create", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/response_008.txt", 
+      "timestamp": 1755008324153
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/request_009.txt", 
+      "url": "https://jnn-pa.googleapis.com:443/$rpc/google.internal.waa.v1.Waa/GenerateIT", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/response_009.txt", 
+      "timestamp": 1755008353343
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/request_010.txt", 
+      "url": "https://jnn-pa.googleapis.com:443/$rpc/google.internal.waa.v1.Waa/GenerateIT", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/jnn-pa.googleapis.com_20250812_124941/response_010.txt", 
+      "timestamp": 1755008353400
+    }
+  ], 
+  "host": "jnn-pa.googleapis.com", 
+  "total_requests": 10
+}
