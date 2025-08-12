@@ -1,0 +1,28 @@
+POST /youtubei/v1/log_event?alt=json HTTP/2
+Host: www.youtube.com
+Cookie: VISITOR_INFO1_LIVE=HNoPulR_NI0; VISITOR_PRIVACY_METADATA=CgJCUhIEGgAgaw%3D%3D; YSC=frQK9mm-0qs; __Secure-ROLLOUT_TOKEN=CJqj0vHF74HInwEQ1-WY-Y-EjwMY5ui68pWEjwM%3D
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.youtube.com/embed/uOo2js32ySc?rel=0
+X-Goog-Request-Time: 1754965968467
+Content-Type: application/json
+X-Goog-Visitor-Id: CgtITm9QdWxSX05JMCigyOrEBjIKCgJCUhIEGgAgaw%3D%3D
+X-Goog-Event-Time: 1754965968467
+X-Youtube-Client-Name: 56
+X-Youtube-Client-Version: 1.20250804.21.00
+X-Youtube-Device: cbr=Firefox&cbrver=141.0&ceng=Gecko&cengver=141.0&cos=Windows&cosver=10.0&cplatform=DESKTOP
+X-Youtube-Page-Cl: 790967629
+X-Youtube-Page-Label: youtube.player.web_20250804_21_RC00
+X-Youtube-Utc-Offset: -180
+X-Youtube-Time-Zone: America/Sao_Paulo
+X-Youtube-Ad-Signals: dt=1754965028317&flash=0&frm=2&u_tz=-180&u_his=15&u_h=1080&u_w=2560&u_ah=1040&u_aw=2560&u_cd=24&bc=31&bih=-12245933&biw=-12245933&brdim=16%2C7%2C16%2C7%2C2560%2C0%2C1161%2C1047%2C473%2C384&vis=1&wgl=true&ca_type=image&bid=ANyPxKqDTAav4kni9nA_tsgseSiOj6Mviy_Qffjtm3VMdbamIG_VlsvbB9v6om5R3scRQcv12la1qeBy0uMoRc46cbLkfsnzwA
+Content-Length: 1713
+Origin: https://www.youtube.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
+{"context":{"client":{"hl":"pt","gl":"BR","clientName":56,"clientVersion":"1.20250804.21.00","configInfo":{"appInstallData":"CKDI6sQGEMn3rwUQvbauBRD6q88cEKahgBMQvoqwBRCYuc8cEN68zhwQrtbPHBCZjbEFEPGcsAUQ8NTPHBD1noATEIHNzhwQ5snPHBC72c4cEM6szxwQ3bPPHBCJsM4cENr3zhwQxcPPHBD8ss4cELnZzhwQ7tXPHBDy388cEOLKzxwQ9quwBRDGy88cEJT-sAUQvZmwBRDw4s4cELjkzhwQioKAExCwhs8cEIiHsAUQmZixBRC80M8cELfq_hIQ6dzPHBCHrM4cENPhrwUQzN-uBRCd0LAFEJ20zxwqKENBTVNHaFVSLVpxLURNZVVFcUxBNmd1QmxRMHlqNWdGbVlzR0F4MEgwAA%3D%3D"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0","rolloutToken":"CJqj0vHF74HInwEQ1-WY-Y-EjwMY5ui68pWEjwM%3D","browserName":"Firefox","browserVersion":"141.0","osName":"Windows","osVersion":"10.0","platform":"DESKTOP"},"thirdParty":{"embedUrl":"https://app.sejaefi.com.br/"}},"events":[{"eventTimeMs":1754965958461,"streamzIncremented":{"serializedIncrementBatch":"ChUvY2xpZW50X3N0cmVhbXovYmcvZWMSEAoOCghib3RndWFyZBICNTAaAmVuGgJtayIRCgMKAW0KBgoEQ0xFbhICCAE="},"context":{"lastActivityMs":"930024"}},{"eventTimeMs":1754965958461,"streamzIncremented":{"serializedIncrementBatch":"ChUvY2xpZW50X3N0cmVhbXovYmcvZWwSEAoOCghib3RndWFyZBICNTAaAmVuGgJtayIYCgMKAWMKBgoEQ0xFbhIJEQAAAAAAAAAAIhgKAwoBQwoGCgRDTEVuEgkRAAAAAAAAMEAiGAoDCgFXCgYKBENMRW4SCREAAAAAAADwPyIYCgMKAXgKBgoEQ0xFbhIJEQAAAAAAAAAAIhgKAwoBbQoGCgRDTEVuEgkRAAAAAAAAMkA="},"context":{"lastActivityMs":"930024"}},{"eventTimeMs":1754965958461,"streamzIncremented":{"serializedIncrementBatch":"ChovY2xpZW50X3N0cmVhbXovYmcvcG8vY3dzYxIQCg4KCGJvdGd1YXJkEgI1MBoCc3UaAm1rIhEKAwoBcwoGCgRDTEVuEgIIAQ=="},"context":{"lastActivityMs":"930025"}}],"serializedClientEventId":{"serializedEventId":"IKSaaOHiMa6Z9cYPwPLegQk","clientCounter":"20208"}}
