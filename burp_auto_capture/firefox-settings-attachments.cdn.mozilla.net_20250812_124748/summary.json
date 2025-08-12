@@ -1,0 +1,87 @@
+{
+  "capture_timestamp": "20250812_124748", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/request_001.txt", 
+      "url": "https://firefox-settings-attachments.cdn.mozilla.net:443/security-state-staging/intermediates/fef074b9-03a9-4b92-b071-8507c9ecdf30.pem", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/response_001.txt", 
+      "timestamp": 1755002092424
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/request_002.txt", 
+      "url": "https://firefox-settings-attachments.cdn.mozilla.net:443/security-state-staging/intermediates/4840df03-94bc-4c1c-b486-6a515d9a76aa.pem", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/response_002.txt", 
+      "timestamp": 1755002092424
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/request_003.txt", 
+      "url": "https://firefox-settings-attachments.cdn.mozilla.net:443/security-state-staging/intermediates/e01b5b08-66ca-4988-9cb8-f87b7d252238.pem", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/response_003.txt", 
+      "timestamp": 1755002092433
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/request_004.txt", 
+      "url": "https://firefox-settings-attachments.cdn.mozilla.net:443/security-state-staging/intermediates/4b4a9b9b-232f-44ae-8416-4594a76e1691.pem", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/response_004.txt", 
+      "timestamp": 1755002092434
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/request_005.txt", 
+      "url": "https://firefox-settings-attachments.cdn.mozilla.net:443/security-state-staging/intermediates/4b0beeec-ccd2-4d20-8fe0-43c37b666e06.pem", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/response_005.txt", 
+      "timestamp": 1755002092436
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/request_006.txt", 
+      "url": "https://firefox-settings-attachments.cdn.mozilla.net:443/security-state-staging/intermediates/20c0f893-3e21-4b06-b74d-77eadeb2fec6.pem", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/response_006.txt", 
+      "timestamp": 1755002092478
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/request_007.txt", 
+      "url": "https://firefox-settings-attachments.cdn.mozilla.net:443/security-state-staging/intermediates/4b83a517-5c27-4483-94e6-cbd75815fe0f.pem", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/response_007.txt", 
+      "timestamp": 1755002092481
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/request_008.txt", 
+      "url": "https://firefox-settings-attachments.cdn.mozilla.net:443/security-state-staging/intermediates/1f225dcc-fb88-47fb-a9a3-bd67e96dda9e.pem", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/response_008.txt", 
+      "timestamp": 1755002092508
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/request_009.txt", 
+      "url": "https://firefox-settings-attachments.cdn.mozilla.net:443/security-state-staging/cert-revocations/f349b004-cf9f-4b04-8190-bc6ff670f6f7.delta", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/response_009.txt", 
+      "timestamp": 1755002092631
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/request_010.txt", 
+      "url": "https://firefox-settings-attachments.cdn.mozilla.net:443/security-state-staging/cert-revocations/ffd989cb-d112-4b96-bd89-4d9f31453754.delta", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/firefox-settings-attachments.cdn.mozilla.net_20250812_124748/response_010.txt", 
+      "timestamp": 1755011548163
+    }
+  ], 
+  "host": "firefox-settings-attachments.cdn.mozilla.net", 
+  "total_requests": 10
+}
